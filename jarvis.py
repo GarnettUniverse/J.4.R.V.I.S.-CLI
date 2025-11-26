@@ -48,7 +48,7 @@ CONFIG = {
     "prompt_user": "[USR] >> ",
     "prompt_ai":   "[J.4.R.V.I.S.] >> ", 
     "color_user": "\033[92m", "color_ai": "\033[96m", "color_sys": "\033[93m", "color_reset": "\033[0m",
-    "weather_api_key": "66294a9e35a864a6cc716af9f6872695" 
+    "weather_api_key": "YOUR OPENWEATHERMAP_API_KEY HERE"  # <-- REPLACE WITH YOUR KEY 
 }
 
 MESSAGES = [] 
