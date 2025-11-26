@@ -26,8 +26,8 @@ It uses local **Ollama** models and includes an advanced tool system, persistent
 ### 1. Clone the repository
 
 ```bash
-git clone [http://github.com/GarnettUniverse/J.4.R.V.I.S.-CLI]
-cd <repo>
+git clone https://github.com/GarnettUniverse/J.4.R.V.I.S.-CLI.git
+cd J.4.R.V.I.S.-CLI
 ```
 
 ### 2. Run the installer
