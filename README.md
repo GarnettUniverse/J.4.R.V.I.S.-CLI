@@ -14,7 +14,7 @@ It uses local **Ollama** models and includes an advanced tool system, persistent
 - File browsing & manipulation tools
 - Built-in Python execution
 - Web search via DuckDuckGo (DDGS)
-- Weather API integration
+- Weather API integration (Needs Free OpenWeatherMap API key)
 - ASCII art + image-to-ASCII converter
 - Multi-threaded tool execution
 - Easy installer & global command
